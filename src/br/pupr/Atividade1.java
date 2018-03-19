@@ -55,7 +55,7 @@ public class Atividade1 {
 
 
 
-                outImage.setRGB(x, y, result.getRGB());          
+                outImage.setRGB(x, y, result.getRGB());                
             }
         }
 
